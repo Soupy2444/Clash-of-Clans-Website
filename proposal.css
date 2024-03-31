@@ -1,0 +1,101 @@
+.myFirstDiv {
+	border: 6px solid black;
+	text-align: center;
+	background-color: #FFD700;
+	width: 99%;
+}
+
+.myFirstLeftSection{
+	text-align: center;
+	float: left;
+	width: 50%;
+	/* border: 1px solid black;*/
+	background-color: #00FF7F;
+}
+
+.myFirstRightSection{
+	text-align: center;
+	float: right;
+	width: 50%;
+	/* border: 1px solid black;*/
+	background-color: #00FF7F;
+}
+
+.mySecondLeftSection{
+	text-align: center;
+	float: left;
+	width: 50%;
+	/* border: 1px solid black;*/
+	background-color: #00FF7F;
+}
+
+.mySecondRightSection{
+	text-align: center;
+	float: right;
+	width: 50%;
+	/* border: 1px solid black;*/
+	background-color: #00FF7F;
+}
+
+.myThirdRightSection{
+	text-align: center;
+	float: right;
+	width: 50%;
+	/* border: 1px solid black;*/
+	background-color: #00FF7F;
+}
+
+.myThirdLeftSection{
+	text-align: center;
+	float: left;
+	width: 50%;
+	/* border: 1px solid black;*/
+	background-color: #00FF7F;
+}
+
+
+a:link, a:visited {
+	background-color: grey;
+	padding: 2% 3%; /* top and bottom padding: 2% and left and right padding: 3% */
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	display: inline-block;
+	border-radius: 60px;
+}
+
+a:hover{
+	background-color: black;
+	color: yellow;
+	
+	
+}
+
+.footer {
+	/* border: 1px solid red; */
+	text-align: center;
+	background-color: #DDDDDD;
+	float: left;
+	width: 100%;
+}
+
+.footer:hover{
+	background-color: black;
+	color: yellow;
+	cursor: pointer;
+	
+}
+
+p{
+	font-size: 16px;
+}
+
+body {
+	background-image: url("../exercise-6/images/HartwickLogo.jpg");
+	background-repeat: no-repeat; /* repeat */
+	background-size: 400px 200px;
+	background-position: 350px 360px;
+}
+	
+	
